@@ -1,0 +1,84 @@
+.image_logo {
+    width: 100px;
+    height: 100px;
+}
+
+.col-md-6{
+    font-family: 'Alegreya Sans SC';
+    font-size: 30px;
+    margin-bottom: 0%;
+    background-color: rgb(208, 232, 240);
+}
+p{
+    text-align: center;
+}
+.col-md-4{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Alegreya Sans';
+    font-size: 22px;
+}
+
+.img {
+    width: 200px;
+    height: 200px;
+}
+
+.container {
+    background-color: rgb(255, 235, 230);
+}
+
+.maths{
+    width: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer {
+    background-color: beige;
+}
+
+a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 10px 20px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: red;
+  }
+
+  code{
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #f44336;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #f3594e;
+  }
